@@ -2,7 +2,9 @@
 Folder structure with Vanilla everything and sass. 
 
 Quick folder structure for smaple and not complex application
-Used mostly for Static web apps/pages
+Used mostly for Static web apps/pages.
+
+Quick note this file structure works well with Visual Studio Code as it's my editor of choice. Keep in mind this may not work on other editor as is you are going to have to change somethings.
 
 The overall structure:
 
